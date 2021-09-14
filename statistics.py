@@ -1,6 +1,3 @@
-my_stat=[[True, True, True], [True, True, True], [True, True, True], [False, True, True], [True, True, True], [True, True, True], [False, False, True], [True, True, True], [True, True, True], [True, True, True], [True, True, True], [True, True, True], [True, True, False], [True, True, True], [True, False, True], [True, False, False], [True, True, True], [False, True, True], [True, True, True], [True, True, True], [False, False, False], [True, False, False], [False, False, False], [False, True, True], [True, False, True], [True, False, True], [True, True, True], [True, True, True], [True, True, True], [True, False, False], [True, True, True], [True, False, False], [True, True, True], [False, True, False], [False, False, False], [False, True, True]]
-
-
 def first_stat(stat,infitive=None,third_from=None,praeteritum=None,perfect_haben_sein=None,perfect=None,level=None):
 	if infitive is None or third_from is None or praeteritum is None or perfect_haben_sein is None or perfect is None or level is None:
 		import verbs_loader
@@ -39,4 +36,3 @@ Amount of mistakes:{(verbs_amount_counter-correct_verbs_counter)}\n\nWrong answe
 	file.write(output)
 	file.close()
 
-first_stat(my_stat)
