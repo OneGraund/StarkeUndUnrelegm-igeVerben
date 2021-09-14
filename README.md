@@ -1,1 +1,6 @@
 # StarkeUndUnrelegm-igeVerben
+Komplexe und unregelmäßige Verben sind schwer zu lernen. Mein Programm ist bereit, Ihnen dabei zu helfen. In diesem Entwicklungsstadium: Import von Verben aus einer Textdatei, Testen auf einem bestimmten Niveau der deutschen Sprache, Anzeigen der Anzahl der Fehler beim Testen und deren weitere Ausgabe in eine separate Textdatei. 
+
+Sie befinden sich derzeit in der Alpha-Entwicklung. Viele Funktionen befinden sich in der Entwicklung und werden demnächst in den Zweig aufgenommen. Zum Beispiel: Lokalisierung für Muttersprachler einer anderen Sprache, ein System zur Bestimmung des Niveaus des Benutzers, eine bequeme und einfache Benutzeroberfläche, ein Verbspeichersystem, einfacherer Import von Verben, Erstellen einer Benutzeroberfläche für das Android-System, Erstellen einer separaten Website, Optimierung von vorhanden Funktionen
+
+Python 3.4 oder höher muss installiert sein, um die Anwendung zu installieren. Als nächstes müssen Sie die Datei main.py ausführen. Wenn Sie sich anmelden, sehen Sie ein Konsolenfenster, in dem Sie gefragt werden, welchen Wissensstand Sie möchten usw. Dann werden Ihnen Verben für die richtige Konjugation gegeben. Wenn der Test abgeschlossen ist, wird die Datei statistics.txt dem Projektordner hinzugefügt, und Sie können den Prozentsatz der richtigen Antworten und Fehler sehen, die Sie gemacht haben.
